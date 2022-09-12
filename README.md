@@ -1,6 +1,11 @@
 # assimilate-databricks
 A repo to assimilate databricks
 
+## API Getting Started
+
+![databricks-api](https://user-images.githubusercontent.com/58792/189719737-fcdaf61f-93d2-415b-8eea-ebb96143187d.png)
+
+
 
 ## Setup auth
 
