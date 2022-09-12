@@ -25,3 +25,10 @@ databricks jobs list --output JSON | jq
 ## Remote connect
 
 [databricks-connect](https://docs.databricks.com/dev-tools/databricks-connect.html)
+
+## Databricks SQL Connector
+
+[Setup table first!](https://docs.databricks.com/dbfs/databricks-datasets.html)
+
+[sql remote](https://docs.databricks.com/dev-tools/python-sql-connector.html)
+https://docs.databricks.com/integrations/bi/jdbc-odbc-bi.html#connection-details-cluster
