@@ -3,3 +3,5 @@ pylint
 click
 databricks
 databricks-cli
+ipython
+databricks-connect==10.4.*
