@@ -37,3 +37,9 @@ databricks jobs list --output JSON | jq
 
 [sql remote](https://docs.databricks.com/dev-tools/python-sql-connector.html)
 https://docs.databricks.com/integrations/bi/jdbc-odbc-bi.html#connection-details-cluster
+
+
+## Comparing to Dask
+
+An alternative solution to Databricks is https://tutorial.dask.org/00_overview.html[Dask] or [Ray](https://docs.ray.io/en/latest/data/dask-on-ray.html).
+
