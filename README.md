@@ -43,3 +43,13 @@ https://docs.databricks.com/integrations/bi/jdbc-odbc-bi.html#connection-details
 
 An alternative solution to Databricks is https://tutorial.dask.org/00_overview.html[Dask] or [Ray](https://docs.ray.io/en/latest/data/dask-on-ray.html).
 
+### Distributed compute
+
+* [Quickstart distributed compute example](https://distributed.dask.org/en/stable/quickstart.html)
+* [For Advanced users (HDFS wordcount Enron)](https://distributed.dask.org/en/stable/examples/word-count.html)
+
+### Hands on Enron
+
+* [Download data](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) from Kaggle and upload by right-click on explorer in GitHub Codespaces
+* place in a "datasets" directory and add this directory to your `.gitignore`.  This ensures you don't check in a 1GB file to GitHub.
+
