@@ -53,3 +53,11 @@ An alternative solution to Databricks is https://tutorial.dask.org/00_overview.h
 * [Download data](https://www.kaggle.com/datasets/wcukierski/enron-email-dataset) from Kaggle and upload by right-click on explorer in GitHub Codespaces
 * place in a "datasets" directory and add this directory to your `.gitignore`.  This ensures you don't check in a 1GB file to GitHub.
 
+### Streamlit Example
+
+Enable enron...
+
+`streamlit hello --server.enableCORS=false`
+`streamlit run hello_streamlit_enron.py --server.enableCORS=false`
+
+
